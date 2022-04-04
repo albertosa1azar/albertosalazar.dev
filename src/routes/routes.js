@@ -4,7 +4,6 @@ import { useEffect } from "react";
 import { Screen } from "../ui/screens/screen/screen.screen";
 
 export function RoutesWeb() {
-    /*
     const location = useLocation();
     const navigate = useNavigate();
 
@@ -14,11 +13,10 @@ export function RoutesWeb() {
             navigate(ROUTES.EMPTY);
         }
     }, []);
-    */
 
     return (
         <Routes>
-            <Route path={ROUTES.SITE} element={<Screen />} />
+            <Route path={ROUTES.EMPTY} element={<Screen />} />
         </Routes>
     );
 }
