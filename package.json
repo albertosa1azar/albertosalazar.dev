@@ -1,8 +1,8 @@
 {
-  "name": "albertosalazar.dev",
+  "name": "albertosalazari",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://albertosa1azar.github.io/albertosalazar.dev",
+  "homepage": "https://albertosa1azar.github.io/albertosalazari",
   "dependencies": {
     "react": "^17.0.2",
     "react-create-global-state": "^1.0.0",
