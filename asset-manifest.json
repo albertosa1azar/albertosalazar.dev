@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/albertosalazari/static/css/main.db23db59.css",
-    "main.js": "/albertosalazari/static/js/main.07b7bad7.js",
+    "main.css": "/albertosalazari/static/css/main.50e2be41.css",
+    "main.js": "/albertosalazari/static/js/main.23f972d2.js",
     "static/media/perfil.jpeg": "/albertosalazari/static/media/perfil.ddd1eaf2f6254eaabf8e.jpeg",
     "static/media/coves.otf": "/albertosalazari/static/media/coves.41080f22fadeee876358.otf",
     "static/media/react.png": "/albertosalazari/static/media/react.7aa3e7438534a7686f56.png",
@@ -17,11 +17,11 @@
     "static/media/css.png": "/albertosalazari/static/media/css.5721a3928fe43de6baf8.png",
     "static/media/git.png": "/albertosalazari/static/media/git.a54d3fa44e02f2f61e69.png",
     "index.html": "/albertosalazari/index.html",
-    "main.db23db59.css.map": "/albertosalazari/static/css/main.db23db59.css.map",
-    "main.07b7bad7.js.map": "/albertosalazari/static/js/main.07b7bad7.js.map"
+    "main.50e2be41.css.map": "/albertosalazari/static/css/main.50e2be41.css.map",
+    "main.23f972d2.js.map": "/albertosalazari/static/js/main.23f972d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.db23db59.css",
-    "static/js/main.07b7bad7.js"
+    "static/css/main.50e2be41.css",
+    "static/js/main.23f972d2.js"
   ]
 }
