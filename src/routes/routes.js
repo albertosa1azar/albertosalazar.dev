@@ -18,7 +18,7 @@ export function RoutesWeb() {
 
     return (
         <Routes>
-            <Route path={ROUTES.EMPTY} element={<Screen />} />
+            <Route path={ROUTES.SITE} element={<Screen />} />
         </Routes>
     );
 }
