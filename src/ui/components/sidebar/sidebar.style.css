@@ -1,0 +1,22 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    height: calc(100% - 30px);
+    width: 70px;
+    margin: 15px;
+    background-color: #10aa;
+    border-radius: 10px;
+}
+
+.sidebar--list {
+    height: 100%;
+    width: auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.sidebar img {
+    height: 50px;
+    width: 50px;
+}

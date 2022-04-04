@@ -1,0 +1,8 @@
+.contact--list {
+    flex-direction: column;
+}
+
+.contact--icon {
+    height: 100px;
+    width: 100px;
+}
