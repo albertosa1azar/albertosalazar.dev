@@ -5,19 +5,18 @@ export function Screen() {
     return (
         <div className="container">
             <Sidebar />
-
-            <section className="perfil">
+            <section id="perfil" className="perfil">
                 <Perfil />
             </section>
-            <section>
+            <section id="xp">
                 <h1>Experiências</h1>
                 <Experiences />
             </section>
-            <section>
+            <section id="skills">
                 <h1>Skills</h1>
                 <Skills />
             </section>
-            <section>
+            <section id="contact">
                 <h1>Contato</h1>
                 <Contact />
             </section>

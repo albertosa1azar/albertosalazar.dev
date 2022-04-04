@@ -2,16 +2,26 @@ import { SIDEBAR } from "../../../utils/sidebar";
 import "./sidebar.style.css";
 
 export function Sidebar() {
-    const sidebarList = SIDEBAR.map((option) => {
-        return (
-            <li>
-                <img src={option.icon} alt="icone da sidebar" />
-            </li>
-        );
-    });
     return (
         <nav className="sidebar">
-            <ul className="sidebar--list">{sidebarList}</ul>
+            <SidebarOption option={SIDEBAR.PERFIL} />
+            <SidebarOption option={SIDEBAR.EXPERIENCE} />
+            <SidebarOption option={SIDEBAR.SKILLS} />
+            <SidebarOption option={SIDEBAR.CONTACT} />
+            <div className="sidebar--especial--options">
+                <SidebarOption option={SIDEBAR.MODE} />
+                <SidebarOption option={SIDEBAR.LANGUAGE} />
+            </div>
         </nav>
+    );
+}
+
+function SidebarOption({ option }) {
+    return (
+        <a href={option?.id}>
+            <div className="sidebar--option">
+                <img src={option.icon} alt="icone da sidebar" />
+            </div>
+        </a>
     );
 }
