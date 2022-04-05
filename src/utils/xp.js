@@ -1,5 +1,5 @@
-import cwi from "../assets/icons/cwi.png";
-import trensurb from "../assets/icons/trensurb.png";
+import cwi from "../assets/icons/xp/cwi.png";
+import trensurb from "../assets/icons/xp/trensurb.png";
 
 export const XP = [
     {

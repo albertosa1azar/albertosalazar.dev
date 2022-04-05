@@ -18,10 +18,15 @@ export function Sidebar() {
 
 function SidebarOption({ option }) {
     return (
-        <a href={option?.id}>
+        <a className="sidebar--link" href={option?.id}>
             <div className="sidebar--option">
-                <img src={option.icon} alt="icone da sidebar" />
+                <SidebarIcon svg={option.icon} />
+                <h3 className="sidebar--option--title">{option.name}</h3>
             </div>
         </a>
     );
+}
+
+function SidebarIcon({ svg }) {
+    return <span className="sidebaricon">{svg}</span>;
 }

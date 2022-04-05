@@ -2,33 +2,39 @@
     position: fixed;
     top: 0;
     left: 0;
-    height: calc(100% - 30px);
-    width: 70px;
-    margin: 15px;
-    background-color: rgba(54, 32, 246, 0.667);
-    border-radius: 70px;
+    height: 100%;
+    width: 200px;
+    background-color: #fff;
 
     display: flex;
     flex-direction: column;
-    padding: 10px;
+    padding: 25px;
     gap: 20px;
 }
 
 .sidebar--option {
     background-color: #fff;
-    border-radius: 50%;
-    padding: 5px;
+    border-radius: 10px;
     height: 50px;
+    width: auto;
 
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 10px;
 
     transition: transform 0.5s;
 }
 
-.sidebar--option:hover {
-    transform: scale(1.09);
+.sidebar--option--title {
+    color: #000;
+}
+
+.sidebar--link {
+    height: 50px;
+    width: auto;
+    text-decoration: none;
 }
 
 .sidebar--option:active {
@@ -45,8 +51,23 @@
     gap: 20px;
 }
 
-.sidebar img {
+.sidebar--option:hover {
+    background-color: #0183ff;
+    transform: scale(1.09);
+    color: #fff;
+}
+
+.sidebar--option:hover .sidebaricon g {
+    fill: #fff;
+}
+
+.sidebar--option:hover .sidebar--option--title {
+    color: #fff;
+}
+
+.sidebaricon svg {
     height: 40px;
+    width: 40px;
 }
 
 .switch {

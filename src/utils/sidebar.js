@@ -1,37 +1,37 @@
-import perfil from "../assets/icons/perfil.png";
-import xp from "../assets/icons/xp.png";
-import skills from "../assets/icons/skills.png";
-import contact from "../assets/icons/contact.png";
-import language from "../assets/icons/translate.png";
-import lightdark from "../assets/icons/lightdark.png";
+import { ReactComponent as Perfil } from "../assets/icons/sidebar/perfil.svg";
+import { ReactComponent as XP } from "../assets/icons/sidebar/xp.svg";
+import { ReactComponent as Skills } from "../assets/icons/sidebar/skills.svg";
+import { ReactComponent as Contact } from "../assets/icons/sidebar/contact.svg";
+import { ReactComponent as Language } from "../assets/icons/sidebar/language.svg";
+import { ReactComponent as Lightdark } from "../assets/icons/sidebar/lightdark.svg";
 
 export const SIDEBAR = {
     PERFIL: {
         name: "Perfil",
-        icon: perfil,
+        icon: <Perfil />,
         id: "#perfil",
     },
     EXPERIENCE: {
         name: "Experiências",
-        icon: xp,
+        icon: <XP />,
         id: "#xp",
     },
     SKILLS: {
         name: "Skills",
-        icon: skills,
+        icon: <Skills />,
         id: "#skills",
     },
     CONTACT: {
         name: "Contato",
-        icon: contact,
+        icon: <Contact />,
         id: "#contact",
     },
     LANGUAGE: {
         name: "Linguagem",
-        icon: language,
+        icon: <Language />,
     },
     MODE: {
         name: "Modo",
-        icon: lightdark,
+        icon: <Lightdark />,
     },
 };

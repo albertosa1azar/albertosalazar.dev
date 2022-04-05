@@ -1,9 +1,9 @@
-import outlook from "../assets/icons/outlook.png";
-import gmail from "../assets/icons/gmail.png";
-import linkedin from "../assets/icons/linkedin.png";
-import github from "../assets/icons/github.png";
-import facebook from "../assets/icons/facebook.png";
-import instagram from "../assets/icons/instagram.png";
+import outlook from "../assets/icons/contact/outlook.png";
+import gmail from "../assets/icons/contact/gmail.png";
+import linkedin from "../assets/icons/contact/linkedin.png";
+import github from "../assets/icons/contact/github.png";
+import facebook from "../assets/icons/contact/facebook.png";
+import instagram from "../assets/icons/contact/instagram.png";
 
 export const CONTACT = [
     {
