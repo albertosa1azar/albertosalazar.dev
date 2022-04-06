@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/albertosalazari/static/css/main.d59024e0.css",
+    "main.css": "/albertosalazari/static/css/main.a6d38190.css",
     "main.js": "/albertosalazari/static/js/main.e93d8ea6.js",
     "static/media/perfil.jpeg": "/albertosalazari/static/media/perfil.ddd1eaf2f6254eaabf8e.jpeg",
     "static/media/coves.otf": "/albertosalazari/static/media/coves.41080f22fadeee876358.otf",
@@ -24,11 +24,11 @@
     "index.html": "/albertosalazari/index.html",
     "static/media/contact.svg": "/albertosalazari/static/media/contact.72b272d5f79c70c3deaafdc891933b00.svg",
     "static/media/perfil.svg": "/albertosalazari/static/media/perfil.c67a9dbb8a1af3e7c1380fa500e2a97a.svg",
-    "main.d59024e0.css.map": "/albertosalazari/static/css/main.d59024e0.css.map",
+    "main.a6d38190.css.map": "/albertosalazari/static/css/main.a6d38190.css.map",
     "main.e93d8ea6.js.map": "/albertosalazari/static/js/main.e93d8ea6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d59024e0.css",
+    "static/css/main.a6d38190.css",
     "static/js/main.e93d8ea6.js"
   ]
 }
