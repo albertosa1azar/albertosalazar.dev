@@ -19,6 +19,7 @@ export function Screen() {
             <section id="contact">
                 {/*<h1>Contato</h1>
                 <Contact />*/}
+                <h1></h1>
             </section>
         </div>
     );
