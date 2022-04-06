@@ -1,5 +1,6 @@
 import { SIDEBAR } from "../../../utils/sidebar";
 import "./sidebar.style.css";
+import "./sidebar.responsive.css";
 import logo from "../../../assets/logos/logo.svg";
 
 export function Sidebar() {
