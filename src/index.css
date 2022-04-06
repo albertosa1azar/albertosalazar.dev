@@ -15,6 +15,7 @@ body,
     width: 100%;
     scroll-behavior: smooth;
     background-color: rgb(227, 245, 252);
+    -webkit-tap-highlight-color: transparent;
 }
 
 section {

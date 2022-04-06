@@ -10,13 +10,13 @@ export function RoutesWeb() {
     useEffect(() => {
         const validation = location.pathname !== ROUTES.EMPTY;
         if (validation) {
-            navigate(ROUTES.EMPTY);
+            navigate(ROUTES.PATTERN);
         }
     }, []);
 
     return (
         <Routes>
-            <Route path={ROUTES.EMPTY} element={<Screen />} />
+            <Route path={ROUTES.PATTERN} element={<Screen />} />
         </Routes>
     );
 }
