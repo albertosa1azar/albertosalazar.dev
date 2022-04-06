@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/albertosalazari/static/css/main.0036e1ec.css",
-    "main.js": "/albertosalazari/static/js/main.11edb749.js",
+    "main.css": "/albertosalazari/static/css/main.d59024e0.css",
+    "main.js": "/albertosalazari/static/js/main.c9c87077.js",
     "static/media/perfil.jpeg": "/albertosalazari/static/media/perfil.ddd1eaf2f6254eaabf8e.jpeg",
     "static/media/coves.otf": "/albertosalazari/static/media/coves.41080f22fadeee876358.otf",
     "static/media/react.png": "/albertosalazari/static/media/react.7aa3e7438534a7686f56.png",
@@ -19,15 +19,16 @@
     "static/media/language.svg": "/albertosalazari/static/media/language.62287ecfdcbb452e40eb310f574f5e3f.svg",
     "static/media/skills.svg": "/albertosalazari/static/media/skills.ab14f74e2c8a860ece08e7312bab6e43.svg",
     "static/media/lightdark.svg": "/albertosalazari/static/media/lightdark.e0e1913f14d19084da6efaa59f51fb91.svg",
+    "static/media/logo.svg": "/albertosalazari/static/media/logo.e44328ec013784b1ddc089c9553b9f6a.svg",
     "static/media/xp.svg": "/albertosalazari/static/media/xp.eadd13df1b0070de8bdc1423cf920a0c.svg",
     "index.html": "/albertosalazari/index.html",
     "static/media/contact.svg": "/albertosalazari/static/media/contact.72b272d5f79c70c3deaafdc891933b00.svg",
     "static/media/perfil.svg": "/albertosalazari/static/media/perfil.c67a9dbb8a1af3e7c1380fa500e2a97a.svg",
-    "main.0036e1ec.css.map": "/albertosalazari/static/css/main.0036e1ec.css.map",
-    "main.11edb749.js.map": "/albertosalazari/static/js/main.11edb749.js.map"
+    "main.d59024e0.css.map": "/albertosalazari/static/css/main.d59024e0.css.map",
+    "main.c9c87077.js.map": "/albertosalazari/static/js/main.c9c87077.js.map"
   },
   "entrypoints": [
-    "static/css/main.0036e1ec.css",
-    "static/js/main.11edb749.js"
+    "static/css/main.d59024e0.css",
+    "static/js/main.c9c87077.js"
   ]
 }
