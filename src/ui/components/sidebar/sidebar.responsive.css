@@ -1,7 +1,12 @@
 @media (max-width: 1024px) {
     .sidebar {
         position: fixed;
-        top: 0;
+        bottom: 0;
+        left: unset;
+        bottom: 0;
+        top: unset;
+        left: unset;
+        right: unset;
         height: auto;
         width: 100%;
         background-color: unset;
@@ -59,7 +64,10 @@
 @media (max-width: 768px) {
     .sidebar {
         position: fixed;
-        top: 0;
+        bottom: 0;
+        top: unset;
+        left: unset;
+        right: unset;
         height: auto;
         width: 100%;
         background-color: unset;
@@ -120,16 +128,19 @@
     }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 375px) {
     .sidebar {
         gap: 25px;
     }
 }
 
-@media (max-width: 321px) {
+@media (max-width: 320px) {
     .sidebar {
         position: fixed;
-        top: 0;
+        bottom: 0;
+        top: unset;
+        left: unset;
+        right: unset;
         height: auto;
         width: 100%;
         background-color: unset;

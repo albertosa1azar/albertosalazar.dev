@@ -6,7 +6,7 @@ export function Screen() {
         <div className="container">
             <Sidebar />
             <section id="perfil" className="perfil">
-                {/*<Perfil />*/}
+                <Perfil />
             </section>
             <section id="xp">
                 {/*<h1>Experiências</h1>
