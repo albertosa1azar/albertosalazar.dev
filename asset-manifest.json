@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/albertosalazari/static/css/main.f1e26285.css",
-    "main.js": "/albertosalazari/static/js/main.b91fc15c.js",
+    "main.css": "/albertosalazari/static/css/main.979a0f45.css",
+    "main.js": "/albertosalazari/static/js/main.bc16b9a1.js",
     "static/media/perfil.jpeg": "/albertosalazari/static/media/perfil.ddd1eaf2f6254eaabf8e.jpeg",
     "static/media/coves.otf": "/albertosalazari/static/media/coves.41080f22fadeee876358.otf",
     "static/media/react.png": "/albertosalazari/static/media/react.7aa3e7438534a7686f56.png",
@@ -11,6 +11,7 @@
     "static/media/spring.png": "/albertosalazari/static/media/spring.15ef603ae42125f0e2e7.png",
     "static/media/trensurb.png": "/albertosalazari/static/media/trensurb.3c4a86a611a983acf3e7.png",
     "static/media/cwi.png": "/albertosalazari/static/media/cwi.b60e2eee6f42d5b713fe.png",
+    "static/media/info.png": "/albertosalazari/static/media/info.d66f6118de47f7f4a009.png",
     "static/media/mysql.png": "/albertosalazari/static/media/mysql.9b2e69d9f282d06c66fe.png",
     "static/media/javascript.png": "/albertosalazari/static/media/javascript.e6737836b1d843e65562.png",
     "static/media/outlook.png": "/albertosalazari/static/media/outlook.43610f23f36c2403e29f.png",
@@ -24,11 +25,11 @@
     "index.html": "/albertosalazari/index.html",
     "static/media/contact.svg": "/albertosalazari/static/media/contact.72b272d5f79c70c3deaafdc891933b00.svg",
     "static/media/perfil.svg": "/albertosalazari/static/media/perfil.c67a9dbb8a1af3e7c1380fa500e2a97a.svg",
-    "main.f1e26285.css.map": "/albertosalazari/static/css/main.f1e26285.css.map",
-    "main.b91fc15c.js.map": "/albertosalazari/static/js/main.b91fc15c.js.map"
+    "main.979a0f45.css.map": "/albertosalazari/static/css/main.979a0f45.css.map",
+    "main.bc16b9a1.js.map": "/albertosalazari/static/js/main.bc16b9a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1e26285.css",
-    "static/js/main.b91fc15c.js"
+    "static/css/main.979a0f45.css",
+    "static/js/main.bc16b9a1.js"
   ]
 }
